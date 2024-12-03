@@ -8,7 +8,7 @@ const container = document.getElementById('divlist')
 addButton.addEventListener('click', () => {
   const titlelist = titleValue.value.trim()
   const detail = descriptValue.value.trim()
-  if(titlelist === '' && detail === '') {
+  if (titlelist === '' && detail === '') {
     alert('Please feel both the task and discription')
     return
   }
