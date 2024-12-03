@@ -1,1 +1,93 @@
+.bigg {
+  display: flex;
+  justify-content: center;
+  gap: 2rem;
+}
 
+body {
+  background-color: #cbc9c9;
+}
+
+body h1 {
+  text-align: center;
+  font-size: 4rem;
+  color: #1ab2c0;
+}
+
+.hhx {
+  background-color: #333;
+  color: white;
+  padding: 15px;
+  border-radius: 0 0 10px 10px;
+  width: 350px;
+}
+
+.hhx input {
+  padding: 10px;
+  border: none;
+  border-bottom: 1px solid white;
+  background-color: transparent;
+  width: 90%;
+  margin-bottom: 20px;
+  color: white;
+}
+
+.hhx button {
+  padding: 8px;
+  width: 90%;
+  border-radius: 5px;
+  border: none;
+  background-color: #1ab2c0;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.hhx textarea {
+  padding: 10px;
+  border: none;
+  border-bottom: 1px solid white;
+  background-color: transparent;
+  width: 90%;
+  margin-bottom: 20px;
+  color: white;
+}
+
+.hh {
+  background-color: #1ab2c0;
+  height: 80px;
+  margin-top: -20px;
+  border-radius: 10px 10px 0 0;
+  margin-top: 60px;
+}
+
+.hh h2 {
+  text-align: center;
+  padding-top: 20px;
+}
+
+.hhh {
+  background-color: #1ab2c0;
+  height: 80px;
+  margin-top: -20px;
+  border-radius: 10px 10px 0 0;
+  width: 450px;
+  margin-top: 60px;
+}
+
+.hhh h2 {
+  text-align: center;
+  padding-top: 20px;
+}
+
+.ii {
+  background-color: #333;
+  color: white;
+  padding: 15px;
+  text-align: start;
+}
+
+.papa {
+  color: #1ab2c0;
+  font-size: 1.5rem;
+  text-align: center;
+}
